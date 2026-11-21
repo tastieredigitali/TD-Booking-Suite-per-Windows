@@ -132,7 +132,7 @@ Prezzi e formule sono su richiesta. **Contattaci da [tastieredigitali.tech](http
 
 **E se cambio PC?** Installa il programma sul PC nuovo e ripristina un backup dal menu Start. Poi chiedici la licenza con il nuovo codice installazione.
 
-**Esiste una versione web, senza Windows?** Sì: il nucleo web di TD Booking Suite è open source, su [github.com/Giuseppe-sciarra/TD-Booking-Suite](https://github.com/Giuseppe-sciarra/TD-Booking-Suite), e si installa con Docker su un server Linux.
+**Esiste una versione web, senza Windows?** Sì: il nucleo web di TD Booking Suite è open source, su [github.com/tastieredigitali/TD-Booking-Suite](https://github.com/tastieredigitali/TD-Booking-Suite), e si installa con Docker su un server Linux.
 
 ---
 

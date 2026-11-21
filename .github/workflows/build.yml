@@ -35,7 +35,7 @@ jobs:
       - name: Sorgente
         uses: actions/checkout@v4
         with:
-          repository: Giuseppe-sciarra/TD-Booking-Suite-Windows
+          repository: tastieredigitali/TD-Booking-Suite-Windows
           token: ${{ secrets.SORGENTE_TOKEN }}
           ref: ${{ inputs.ramo || 'main' }}
           submodules: true
