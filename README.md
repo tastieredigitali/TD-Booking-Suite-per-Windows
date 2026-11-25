@@ -4,7 +4,7 @@
 
 TD Booking Suite è nato per chi non vuole abbonarsi, o restare abbonato, alle piattaforme di prenotazione. Il programma sta sul PC dell'attività, con i suoi dati. Le prenotazioni online arrivano dal **tuo sito WordPress**, con il tuo nome, e non da un portale che mostra anche i concorrenti. Lo fa [Tastiere Digitali](https://tastieredigitali.tech).
 
-**[Scarica l'ultima versione](../../releases/latest)**: un solo file MSI. I primi 7 giorni sono di prova gratuita, con tutte le funzioni.
+**[Scarica l'ultima versione](../../releases/latest)**: un solo file MSI. I primi 7 giorni sono di prova gratuita, con tutte le funzioni. Le **[istruzioni complete in PDF](Istruzioni-TD-Booking-Suite-Windows.pdf)** spiegano tutto, passo per passo.
 
 | | |
 |---|---|
