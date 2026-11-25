@@ -1,60 +1,62 @@
 # TD Booking Suite per Windows
 
-**Prenotazioni, agenda e clienti in un programma per Windows: i dati restano sul tuo PC, in ufficio.**
+**Agenda, clienti e cassa in un programma per Windows, collegato al tuo sito. Si paga una volta: niente abbonamento e niente commissioni sulle prenotazioni.**
 
-TD Booking Suite gestisce appuntamenti, tavoli, camere, lezioni ed eventi. Si installa su un PC solo, oppure su un PC dell'ufficio che fa da server per tutte le postazioni della rete, il browser e il telefono. Lo fa [Tastiere Digitali](https://tastieredigitali.tech).
+TD Booking Suite è nato per chi non vuole abbonarsi, o restare abbonato, alle piattaforme di prenotazione. Il programma sta sul PC dell'attività, con i suoi dati. Le prenotazioni online arrivano dal **tuo sito WordPress**, con il tuo nome, e non da un portale che mostra anche i concorrenti. Lo fa [Tastiere Digitali](https://tastieredigitali.tech).
 
-**[Scarica l'ultima versione](../../releases/latest)**: un solo file MSI, per un PC solo, per il server e per le postazioni. I primi 7 giorni sono di prova gratuita, con tutte le funzioni. Le **[istruzioni complete in PDF](Istruzioni-TD-Booking-Suite-Windows.pdf)** spiegano tutto, passo per passo.
+**[Scarica l'ultima versione](../../releases/latest)**: un solo file MSI. I primi 7 giorni sono di prova gratuita, con tutte le funzioni.
 
 | | |
 |---|---|
-| ![Agenda per operatore](screenshots/agenda.png) | ![Operatore](screenshots/operatore.png) |
-| **Agenda del giorno**: una colonna per operatore con la sua foto, per tutti o per uno solo; un clic su uno spazio libero e la prenotazione parte con operatore, giorno e ora | **Operatori**: la foto, i trattamenti che fanno con durata e prezzo loro, i giorni e orari, le ferie |
+| ![Agenda per operatore](screenshots/agenda.png) | ![Cassa](screenshots/cassa.png) |
+| **Agenda del giorno**: una colonna per operatore; un clic su uno spazio libero e la prenotazione parte con operatore, giorno e ora | **Cassa**: scegli l'operatore, tocchi i servizi e mandi il conto al registratore telematico, che stampa lo scontrino |
 | ![Settimana](screenshots/settimana.png) | ![Mese](screenshots/mese.png) |
 | **Settimana**: i sette giorni ora per ora, un colore per operatore | **Mese**: quanti appuntamenti ha ogni giorno, un clic apre il giorno |
 | ![Nuova prenotazione](screenshots/nuova-prenotazione.png) | ![Prenotazione](screenshots/prenotazione.png) |
 | **Nuova prenotazione**: servizio, operatore, giorno e ora liberi, il cliente cercato o nuovo | **La prenotazione**: tutti i dettagli, sposta, completa, annulla, le note interne e la scheda del cliente |
-| ![Cassa](screenshots/cassa.png) | ![Clienti](screenshots/clienti.png) |
-| **Cassa**: tocchi i servizi, scegli l'operatore e mandi il conto al registratore di cassa, che stampa lo scontrino | **Clienti**: la rubrica con ricerca, etichette e VIP, le visite e l'ultima volta |
+| ![Clienti](screenshots/clienti.png) | ![Scheda cliente](screenshots/cliente.png) |
+| **Clienti**: la rubrica con ricerca, etichette e VIP, le visite e l'ultima volta | **Scheda cliente**: recapiti, sconto, speso, appuntamenti in programma e lo storico dei trattamenti |
 | ![Elenco delle prenotazioni](screenshots/prenotazioni.png) | ![Report](screenshots/report.png) |
 | **Elenco**: le prenotazioni per periodo, stato e nome | **Report**: incassi, servizi più fatti e operatori, in Excel e PDF |
-| ![Scheda cliente](screenshots/cliente.png) | ![Dashboard](screenshots/dashboard.png) |
-| **Scheda cliente**: recapiti, sconto, speso, appuntamenti in programma e ultimo trattamento | **Dashboard**: prenotazioni di oggi e dei prossimi giorni, agenda e clienti a portata di clic |
+| ![Dashboard](screenshots/dashboard.png) | ![Operatore](screenshots/operatore.png) |
+| **Dashboard**: prenotazioni di oggi e dei prossimi giorni, le richieste arrivate dal sito e com'è andata l'ultima sincronizzazione | **Operatori**: la foto, i trattamenti che fanno con durata e prezzo loro, i giorni e orari, le ferie |
 | ![Configurazione guidata](screenshots/guida.png) | ![Chi lavora nell'attività](screenshots/guida-io.png) |
-| **Configurazione guidata**: licenza, attività, backup e postazioni, un passo alla volta | **Uno o due account**: lo usi tu con un account solo, oppure lo installi per un cliente con il suo |
-| ![Accesso](screenshots/accesso.png) | ![Tema scuro](screenshots/scuro.png) |
-| **Accesso** con username o email, o con un clic per il titolare dal PC del programma: resta collegato, e **Esci** per cambiare account | **Tema chiaro o scuro**, con il colore che preferisci |
-| ![Postazioni](screenshots/postazioni.png) | ![Backup](screenshots/backup.png) |
-| **Postazioni**: ogni PC si registra una volta con un codice di 6 cifre | **Backup automatici**, cifrati, su disco esterno, NAS o server remoto |
+| **Configurazione guidata**: licenza, attività e backup, un passo alla volta | **Uno o due account**: lo usi tu con un account solo, oppure lo installi per un cliente con il suo |
+| ![Backup](screenshots/backup.png) | ![Tema scuro](screenshots/scuro.png) |
+| **Backup automatici**, cifrati, su disco esterno, NAS o server remoto | **Tema chiaro o scuro**, con il colore che preferisci |
 | ![Importa clienti](screenshots/import.png) | ![Anteprima dell'import](screenshots/import-anteprima.png) |
 | **Importa i clienti** dal programma di prima, da Excel o CSV | **Anteprima** prima di importare: cosa entra e cosa no |
-| ![Prossimi 7 giorni](screenshots/dashboard-7giorni.png) | ![Logo e aspetto](screenshots/logo-aspetto.png) |
-| **Oggi e prossimi 7 giorni**: un clic sulla dashboard e vedi chi viene e a che ora, giorno per giorno | **Logo e aspetto**: il logo dell'attività in alto nel menu, il colore e la frase sotto il nome, con l'anteprima |
-| ![Email ai clienti](screenshots/notifiche.png) | ![Rete e certificato](screenshots/rete.png) |
-| **Email ai clienti**: conferma, modifica, annullamento e promemoria, con il tuo testo e l'anteprima | **Rete e certificato**: indirizzo pubblico, proxy e certificato, solo per l'amministratore |
+| ![Logo e aspetto](screenshots/logo-aspetto.png) | ![Email ai clienti](screenshots/notifiche.png) |
+| **Logo e aspetto**: il logo dell'attività in alto nel menu, il colore e la frase sotto il nome, con l'anteprima | **Email ai clienti**: conferma, modifica, annullamento e promemoria, con il tuo testo e l'anteprima |
+
+## Collegato al tuo sito
+
+Il programma non è un sito e non va messo su Internet: lavora sul PC. Il collegamento con i clienti passa dal **sito WordPress dell'attività**, con il plugin che si scarica dal programma.
+
+- **Prenotazioni dal sito, anche a PC spento.** Il cliente sceglie servizio, operatore, giorno e orario nella pagina del tuo sito. Quando il PC è acceso, ogni 2 minuti il programma manda al sito servizi, operatori e orari liberi e prende le richieste arrivate. Non c'è nessuna porta da aprire nel router.
+- **Le richieste diventano prenotazioni come le altre.** Se quell'orario nel frattempo l'hai dato al banco, la richiesta arriva tra quelle da confermare: la accetti, la sposti o la rifiuti, e il cliente riceve l'email.
+- **Agenda riservata sul sito.** Titolare e collaboratori vedono le prenotazioni dal telefono, in una pagina del sito protetta da password, e aggiungono appuntamenti. Per spostare o annullare serve il programma.
+- **Il sito come archivio.** Se lo accendi, il sito tiene una copia cifrata di prenotazioni, clienti, schede di lavoro, consensi e riepilogo degli scontrini: se il PC si rompe, si riprende tutto da lì.
+- **Email anche con il PC spento.** Puoi lasciare al sito la conferma delle prenotazioni online e tutte le email ai clienti: conferma, promemoria, modifica e annullamento.
+
+Si collega una volta sola, da **Impostazioni e sito**: scrivi l'indirizzo del sito, generi la chiave, installi il plugin e incolli la chiave. I passi sono nella guida dentro il programma.
 
 ## Cosa fa
 
-- **Agenda e prenotazioni** per parrucchieri, centri estetici, SPA, ristoranti, studi, autoscuole, officine, hotel, case vacanza, noleggi, tour ed eventi. Ci sono gli orari, le risorse e gli operatori, e le domande giuste per ogni tipo di attività.
-- **Agenda del giorno, della settimana e del mese** per parrucchieri, estetica, studi e campi: nel giorno una colonna per ogni operatore che lavora, nella settimana i sette giorni ora per ora, nel mese quanti appuntamenti ha ogni giorno. Ogni operatore ha il suo colore. Un clic su uno spazio libero e la prenotazione parte con operatore, giorno e ora già messi.
-- **Operatori con foto, trattamenti, orari e ferie**: ognuno fa i servizi che spunti, ognuno con la sua durata e il suo prezzo se diversi, e, se serve, ha i suoi giorni di lavoro. Il cliente sceglie con chi prenotare dalla foto.
-- **Prenotazioni online** dalla pagina dell'attività, quando il server è raggiungibile da Internet, con conferme e promemoria per email. Con Un PC solo si accendono da *Online e sito*.
-- **Email ai clienti con promemoria**: conferma, modifica e annullamento partono da sole; quando l'amministratore lo attiva, il titolare sceglie quali partono, aggiunge il promemoria da 2 ore a 3 giorni prima e scrive i testi, con l'anteprima. Il cliente sceglie se riceverle.
-- **Clienti**: scheda con i recapiti sempre in vista, quanto ha speso, cosa ha in programma, lo storico con i prezzi, le note, i trattamenti, le intolleranze e i consensi marketing.
+- **Agenda del giorno, della settimana e del mese**: nel giorno una colonna per ogni operatore che lavora, nella settimana i sette giorni ora per ora, nel mese quanti appuntamenti ha ogni giorno. Ogni operatore ha il suo colore.
+- **Appuntamenti alla stessa ora**: due appuntamenti che si accavallano sullo stesso operatore stanno affiancati nella sua colonna. Con il **+** accanto a un appuntamento ne aggiungi un altro alla stessa ora.
+- **Agenda su misura**: trascini il bordo di una colonna per allargarla e la colonna delle ore per alzare le righe. Le misure restano salvate sul PC.
+- **Cassa collegata al registratore telematico** (RCH ed Epson): scegli l'operatore, tocchi servizi e prodotti, incassi e lo scontrino esce dal registratore. Dalla cassa fai anche la chiusura giornaliera.
+- **Operatori con foto, trattamenti, orari e ferie**: ognuno fa i servizi che spunti, ognuno con la sua durata e il suo prezzo se diversi, e, se serve, ha i suoi giorni di lavoro.
+- **Clienti**: scheda con i recapiti sempre in vista, quanto ha speso, cosa ha in programma, lo storico dei trattamenti con i prezzi, dal più recente o dal più vecchio, le foto del lavoro, le note, le intolleranze e i consensi marketing.
 - **Listino e sconti**: il titolare tiene servizi, varianti e prezzi; a un cliente dai uno sconto in percentuale o fisso, che vale da subito sulle sue prenotazioni.
+- **Email ai clienti con promemoria**: conferma, modifica e annullamento, e il promemoria da 2 ore a 3 giorni prima, con i tuoi testi e l'anteprima. Il cliente sceglie se riceverle.
 - **Importa dal programma di prima**: anagrafica e storico dei trattamenti da Excel o CSV. Per ogni colonna scegli cosa contiene e guardi l'anteprima prima di importare. Chi c'è già non viene sovrascritto né raddoppiato. I consensi marketing restano da confermare dal cliente.
-- **Persone e permessi**: ognuno entra con il suo username, l'email è facoltativa, e vede solo quello che il suo ruolo consente. Chi installa configura tipo di attività, sedi, persone con accesso e parte tecnica; il titolare lavora e tiene aggiornati orari, operatori, listino e il suo logo.
-- **Una o più attività**: le licenze Un PC solo e Server sono per un'attività, la licenza Portale per chi ne gestisce diverse.
-- **Più postazioni**: i PC della rete usano il programma per la postazione; browser e telefono vanno bene lo stesso. Le sedi lontane si collegano allo stesso server.
-- **Da fuori dall'ufficio**: dietro un proxy con il suo certificato (NPMplus, Caddy, IIS) o con un tuo certificato caricato nel programma. Anche i certificati autofirmati vanno bene: le postazioni li riconoscono dall'impronta. Il programma per le postazioni si collega anche alla versione web su Docker.
-- **Sicurezza**:
-  - HTTPS anche in rete locale;
-  - con le postazioni, secondo fattore facoltativo con Authenticator o passkey;
-  - dati di ogni attività cifrati e separati;
-  - ogni parte del programma con i suoi permessi di Windows;
-  - l'amministratore del programma lo crea solo un amministratore di Windows del PC.
+- **Persone e permessi**: ognuno entra con il suo username e vede solo quello che il suo ruolo consente. Chi installa configura tipo di attività, sedi e persone con accesso; il titolare lavora e tiene aggiornati orari, operatori, listino e il suo logo.
+- **Per diversi tipi di attività**: parrucchieri e centri estetici prima di tutto, e anche studi, ristoranti con i tavoli, strutture con le camere, corsi ed eventi.
+- **Più PC nella stessa attività**: uno tiene i dati, gli altri PC della rete lo usano con lo stesso programma. Ogni PC si registra una volta, con un codice di 6 cifre.
 - **Backup automatici ogni notte**, cifrati con la tua password, su disco esterno, NAS, FTP, FTPS o SFTP. Il ripristino si fa dal menu Start.
-- **Il tuo marchio**: nome, loghi, icona, colore principale e tema di partenza si cambiano dalle impostazioni; ogni attività mette il suo logo, che compare in alto nel menu.
+- **Il tuo marchio**: ogni attività mette il suo logo, che compare in alto nel menu, e sceglie colore e tema chiaro o scuro.
 
 ## Installare
 
@@ -68,11 +70,11 @@ Durante l'installazione il programma chiede **Come userai TD Booking Suite su qu
 
 | | |
 |---|---|
-| **Un PC solo** | Programma e dati su questo PC, che si usa da solo: niente altri PC o telefoni. Per un'attività con un solo computer. Si entra con username e password. La pagina prenotazioni e il sito si accendono quando servono, da *Online e sito* |
-| **Server con postazioni** | Questo PC tiene i dati e resta acceso. Gli altri PC con la postazione, tablet e telefoni dell'ufficio e, se lo metti online, il sito si collegano a lui. Qui si usa anche il programma |
-| **Solo postazione** | Solo la finestra del programma, per un PC che si collega a un server già installato in ufficio o a TD Booking Suite su Internet |
+| **Un PC solo** | Programma e dati su questo PC. Per un'attività con un solo computer: è la scelta di quasi tutti |
+| **Server con postazioni** | Questo PC tiene i dati e resta acceso; gli altri PC dell'attività si collegano a lui dalla rete del negozio |
+| **Solo postazione** | Solo la finestra del programma, per un PC che si collega al PC con i dati |
 
-La scelta si cambia dopo, aprendo di nuovo l'installazione: i dati restano.
+La scelta si cambia dopo, aprendo di nuovo l'installazione: i dati restano. In tutti i casi il collegamento con il sito funziona allo stesso modo.
 
 Se lo reinstalli dopo averlo tolto, l'installer trova i dati di prima e chiede: **Usa i dati di prima**, e riparte da dove era, oppure **Ricomincia da zero**, con un programma vuoto e un nuovo primo avvio. I dati di prima non si cancellano: vanno da parte, interi, in `C:\ProgramData`. Licenza e prova restano.
 
@@ -82,57 +84,54 @@ Se lo reinstalli dopo averlo tolto, l'installer trova i dati di prima e chiede: 
 2. La **configurazione guidata** ti porta passo per passo:
    - **Licenza**: attiva la **prova di 7 giorni**, oppure incolla la licenza;
    - **La tua attività e chi ci lavora**: nome e tipo dell'attività, poi **Io, con questo account** se il programma lo usi tu, oppure **Il titolare, con un suo account** se lo installi per qualcun altro;
-   - **Backup**: password dei backup, backup automatico e una destinazione fuori dal PC;
-   - **Postazioni**, se hai scelto Server con postazioni.
-3. **Al lavoro**: con un account solo vai direttamente all'agenda; con il titolare, **Esci ed entra come** apre il suo accesso.
+   - **Backup**: password dei backup, backup automatico e una destinazione fuori dal PC.
+3. **Al lavoro**: con un account solo vai direttamente all'agenda.
 
 | ![Primo avvio](screenshots/primo-avvio.png) | ![Licenza](screenshots/licenza.png) |
 |---|---|
 | **Primo avvio**: l'amministratore si crea solo dal PC del programma | **Licenza**: cosa consente e il codice installazione da mandarci |
 
-**Resta collegato** è spuntato di serie: il programma si riapre già collegato, sempre. Il titolare può anche entrare senza password, con un clic, dal PC del programma e dalle postazioni registrate. Per entrare con un altro account usa **Esci**, in alto a destra.
-
-### Sulle altre postazioni
+### Sugli altri PC dell'attività
 
 1. Installa lo stesso MSI scegliendo **Solo postazione**.
-2. Al primo avvio scrivi l'indirizzo del server, per esempio `https://ufficio-pc:8443`, e controlla che l'impronta del certificato sia la stessa della pagina Postazioni del server.
-3. Sul server, in **Postazioni**, genera il codice e scrivilo sulla postazione.
-
-Da browser o telefono basta aprire l'indirizzo del server e inserire il codice.
+2. Al primo avvio scrivi l'indirizzo del PC con i dati, per esempio `https://ufficio-pc:8443`, e controlla che l'impronta del certificato sia la stessa della pagina Postazioni.
+3. Sul PC con i dati, in **Postazioni**, genera il codice e scrivilo sull'altro PC.
 
 ## La licenza
 
-Dopo i 7 giorni di prova il programma chiede la licenza. Prenotazioni e clienti restano salvati, e i backup continuano. Ci sono tre tipi di licenza:
+**Si paga una volta sola.** Non c'è un canone mensile e non ci sono commissioni sulle prenotazioni. Dopo i 7 giorni di prova il programma chiede la licenza; prenotazioni e clienti restano salvati, e i backup continuano.
 
-| | Attività | Postazioni in rete |
+| | Attività | Altri PC in rete |
 |---|---|---|
-| **Un PC solo** | 1 | nessuna |
-| **Server con postazioni** | 1 | quante ti servono, oltre al PC server |
-| **Portale** | 2 o più | quante ti servono |
+| **Un PC solo** | 1 | nessuno |
+| **Server con postazioni** | 1 | quanti ti servono, oltre al PC con i dati |
+| **Più attività** | 2 o più | quanti ti servono |
 
-La licenza può avere una **scadenza** e vale per il PC dove l'hai attivata. Per avere più postazioni, più attività o un rinnovo ti mandiamo una licenza nuova: la incolli al posto della vecchia e non perdi niente.
+La licenza vale per il PC dove l'hai attivata. Per avere più postazioni o più attività ti mandiamo una licenza nuova: la incolli al posto della vecchia e non perdi niente.
 
 ### Come acquistare
 
-Prezzi e formule sono su richiesta. **Contattaci da [tastieredigitali.tech](https://tastieredigitali.tech)** e mandaci il **codice installazione** che trovi nella pagina Licenza del programma: ti spieghiamo le formule e ti mandiamo la licenza per il tuo PC. La incolli nella stessa pagina e il programma riparte subito, con tutti i dati.
+Il prezzo è su richiesta. **Contattaci da [tastieredigitali.tech](https://tastieredigitali.tech)** e mandaci il **codice installazione** che trovi nella pagina Licenza del programma: ti mandiamo la licenza per il tuo PC. La incolli nella stessa pagina e il programma riparte subito, con tutti i dati.
 
 ## Requisiti
 
-- Windows 10 o 11 a 64 bit. Sul PC con i dati bastano 4 GB di RAM e qualche GB libero.
-- Sulle postazioni serve Microsoft Edge WebView2, già presente su Windows 11 e sui Windows 10 aggiornati. Se manca, il programma lo dice e porta alla pagina per scaricarlo.
-- Per le postazioni fuori dall'ufficio, il server deve essere raggiungibile da Internet, oppure si usa un server Windows in cloud.
+- Windows 10 o 11 a 64 bit, con 4 GB di RAM e qualche GB libero.
+- Per le prenotazioni online: un sito WordPress dell'attività, dove installare il plugin.
+- Per gli scontrini: un registratore telematico RCH o Epson collegato alla rete del negozio.
 
 ## Domande
 
-**Dove sono i miei dati?** Sul PC con il programma, in `C:\ProgramData\TD Booking Suite`, e nei backup che scegli tu. Non passano da nostri server.
+**Dove sono i miei dati?** Sul PC con il programma, in `C:\ProgramData\TD Booking Suite`, e nei backup che scegli tu. Se accendi l'archivio, una copia cifrata sta anche sul tuo sito. Non passano da nostri server.
 
-**Posso aggiornare senza perdere niente?** Sì: apri l'MSI nuovo sopra quello vecchio. Prima di aggiornare il programma salva da solo una copia del database.
+**Devo tenere il PC sempre acceso per ricevere le prenotazioni?** No. Il sito le prende anche a PC spento e il programma le scarica quando lo riaccendi.
+
+**Devo aprire porte nel router o avere un indirizzo fisso?** No. È il programma che chiama il sito, non il contrario.
+
+**Posso aggiornare senza perdere niente?** Sì: il programma avvisa quando c'è una versione nuova, oppure apri l'MSI nuovo sopra quello vecchio. Prima di aggiornare salva da solo una copia del database.
 
 **Ho dimenticato la password.** Sul PC con il programma, menu Start, **TD Booking Suite**, **Recupera accesso**: vale per l'amministratore e per chiunque abbia un account. Serve un account amministratore di Windows.
 
 **E se cambio PC?** Installa il programma sul PC nuovo e ripristina un backup dal menu Start. Poi chiedici la licenza con il nuovo codice installazione.
-
-**Esiste una versione web, senza Windows?** Sì: il nucleo web di TD Booking Suite è open source, su [github.com/tastieredigitali/TD-Booking-Suite](https://github.com/tastieredigitali/TD-Booking-Suite), e si installa con Docker su un server Linux.
 
 ---
 
